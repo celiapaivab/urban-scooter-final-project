@@ -69,7 +69,5 @@ Projeto final incluindo **planejamento**, **execução** e **documentação** de
 
 ## 🇺🇸 Project Summary
 
-## 🇺🇸 Project Summary
-
 Final project demonstrating the planning, execution, and documentation of Web, Mobile, and API tests using manual testing techniques and Postman during Sprint 9 of the QA course.
 
