@@ -1,0 +1,15 @@
+{
+	"id": "7161aad6-0764-4983-8b9c-a353d6e8f5db",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://cnt-be8270a6-bc08-4e05-a8b0-37aab7c49cc8.containerhub.tripleten-services.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-07-09T19:08:45.670Z",
+	"_postman_exported_using": "Postman/11.53.2"
+}
