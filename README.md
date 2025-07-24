@@ -6,11 +6,11 @@
 
 ## 📌 Sobre o Projeto
 
-Projeto final incluindo **planejamento**, **execução** e **documentação** de **testes manuais**, **testes de API** e **testes mobile**, como parte da **Sprint 9** do curso de QA da TripleTen.
+Projeto final incluindo **planejamento**, **execução** e **documentação** de **testes manuais** e **testes de API**, como parte da **Sprint 9** do curso de QA da TripleTen.
 
 ## 🎯 Objetivo do Projeto
 
-- Realizar testes funcionais em aplicação **Web**, **Mobile** e **API**
+- Realizar testes funcionais em aplicação **Web** e **API**
 - Criar e documentar casos de teste
 - Registrar e rastrear bugs no **JIRA**
 - Consolidar todos os resultados no **Google Sheets**
@@ -53,11 +53,12 @@ Projeto final incluindo **planejamento**, **execução** e **documentação** de
 ## 📚 Aprendizados
 
 - Planejamento eficiente sob **restrições de tempo**
-- Execução de testes multiplataforma (web, mobile, API)
+- Execução de testes multiplataforma
 - Relatórios de bugs claros e rastreáveis
 
 ## 💡 Melhorias Futuras
 
+- Execução de testes mobile
 - Automatizar cenários críticos com **Python + Selenium**
 - Implementar CI/CD com integração de testes
 - Expandir cobertura de testes exploratórios
