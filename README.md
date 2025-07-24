@@ -65,8 +65,8 @@ Projeto final incluindo **planejamento**, **execução** e **documentação** de
 
 ## 📂 Arquivos do Projeto
 
-- `Google Sheets` — Casos de Teste e Resultados
-- `JIRA` — Relatórios de Bugs
+- [📄 Google Sheets — Casos de Teste e Resultados](https://docs.google.com/spreadsheets/d/1MuwSuT8ikvj0gB_-VyPFHDlBu_5PhU2vpsQotS5V6hs/edit?usp=sharing)
+- [🐞 JIRA — Relatórios de Bugs](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S9/issues?jql=project%20%3D%20%22S9%22%20ORDER%20BY%20created%20DESC)
 
 ## 🇺🇸 Project Summary
 
