@@ -3,6 +3,8 @@
 ![Mobile Testing](https://img.shields.io/badge/Test-Mobile-blue)
 ![API Testing](https://img.shields.io/badge/Test-API-orange)
 ![Manual Testing](https://img.shields.io/badge/Test-Manual-green)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
+
 
 ## 📌 Sobre o Projeto
 
