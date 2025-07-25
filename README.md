@@ -41,7 +41,7 @@ Initially, the scope included **mobile app testing**, but due to technical issue
 ## ▶️ How to Execute
 
 ### 🖥️ **Web Application**
-1. Launch the web application server using the provided project link.
+1. Launch the web application server.
 2. Validate the prioritized functional requirements.
 3. Capture evidence and log any defects in JIRA.
 
@@ -51,6 +51,8 @@ Initially, the scope included **mobile app testing**, but due to technical issue
 3. Use **Postman** to send POST and DELETE requests.
 4. Validate API responses and database updates.
 5. Report any issues found in JIRA.
+
+> **Note:** The **Urban Routes** server must be running for the tests to run properly.
 
 ---
 
